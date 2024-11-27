@@ -41,8 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de Engenharia de Prompt, o título deve ser épico e curto, e tenha uma temática sobre o poder do uso da IA, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em Engenharia de Prompt, listando os principais conceitos e métodos aplicados na construção de excelentes promts
-{REGRAS} Explique sempre de uma maneira simples, Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em Engenharia de Prompt, listando os principais conceitos e métodos aplicados na construção de excelentes promts {REGRAS} Explique sempre de uma maneira simples, Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 Midjourney：
@@ -65,17 +64,11 @@ Midjourney：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Aluno Dedicado
+## 👨‍💻 Novato
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://octodex.github.com/bannekat/"
-    />
-    <p>&nbsp&nbsp&nbspGutembergue Martins<br>
-    &nbsp&nbsp&nbsp
+    <p>&nbspGutembergue Martins<br>
+    &nbsp
     <a href="www.linkedin.com/in/gutembergue-martins-38336a59">LinkedIn</a>
 &nbsp;|&nbsp;
    </p>
