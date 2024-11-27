@@ -69,7 +69,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <p>
     <p>&nbspGutembergue Martins<br>
     &nbsp
-    <a href="www.linkedin.com/in/gutembergue-martins-38336a59">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/gutembergue-martins-38336a59
+">LinkedIn</a>
 &nbsp;
    </p>
 <br/><br/>
