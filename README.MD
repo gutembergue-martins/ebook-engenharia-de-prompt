@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".github/assets/cover-ebook-engenharia de prompt.png">
 </p>
 
 
